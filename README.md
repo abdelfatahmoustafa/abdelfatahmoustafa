@@ -2,15 +2,9 @@
 <h3 align="center">Full Stack Developer | React.js, React Native, Express.js & Mongoose</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=
-  Full+Stack+Developer;
-  React.js+Specialist;
-  React+Native+Developer;
-  Express.js+%26+Mongoose+Backend;
-  Cross+Platform+Developer" 
-  alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+Specialist;React+Native+Developer;Express.js+%26+Mongoose+Backend;Cross+Platform+Developer" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
