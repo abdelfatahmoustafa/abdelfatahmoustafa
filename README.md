@@ -1,9 +1,17 @@
 <h1 align="center">Hello There 👋, I'm Abdelfatah Moustafa</h1>
-<h3 align="center">Full Stack Developer | React.js & React Native Specialist</h3>
+<h3 align="center">Full Stack Developer | React.js, React Native, Express.js & Mongoose</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+Specialist;React+Native+Developer;Cross+Platform+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?
+  font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=
+  Full+Stack+Developer;
+  React.js+Specialist;
+  React+Native+Developer;
+  Express.js+%26+Mongoose+Backend;
+  Cross+Platform+Developer" 
+  alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://wa.me/201017783451" target="_blank">
