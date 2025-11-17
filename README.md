@@ -9,16 +9,16 @@
   <a href="https://wa.me/201017783451" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:abdalfatahmoustafa@gmail.com">
+  <a href="mailto:abdalfatahmoustafa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/abdelfatahmoustafa/">
+  <a href="https://github.com/abdelfatahmoustafa/" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abdelfatahmoustafa/">
+  <a href="https://www.linkedin.com/in/abdelfatahmoustafa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://abdelfatah-moustafa-portfolio.vercel.app">
+  <a href="https://abdelfatah-moustafa-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
